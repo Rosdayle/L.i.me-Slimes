@@ -81,8 +81,9 @@ Here is your Shopping list. Items linked are what I personally use.
 
 
 
-## Hardware layout
-Due to being a slightly different hardware layout, here is a wiring diagram to follow
+## Hardware layout 
+Due to being a slightly different hardware layout, here is a wiring diagram to follow.
+Note to self clean up these diagrams
 
 
 BASE Layout (Start with this)
@@ -93,7 +94,7 @@ BASE Layout (Start with this)
 3 IMU LAYOUT (The main and recommended layout)
 ![3 IMU LAYOUT here](https://i.gyazo.com/aa39ab299450ce945091e0bdfc0138fa.png)
 
-4 IMU layout here for Don't do this unless you have a reason to
+4 IMU layout here Don't do this unless you have a reason to
 ![4 IMU LAYOUT here](https://i.gyazo.com/df23a269be14a751d016d65494852174.png)
 
 
