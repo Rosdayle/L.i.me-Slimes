@@ -21,7 +21,7 @@ In short going by the quote **"Less is more"**
 
 
 
-
+Mind the mess, everything is still WIP
 
 
 
@@ -87,6 +87,14 @@ Here is your Shopping list. Items linked are what I personally use.
 Due to being a slightly different hardware layout, here is a wiring diagram to follow.
 Note to self clean up these diagrams
 
+**NOTES for recommended layout**
+--note to self Release diagram or pictures, also notes for sizing cables and looping a cable through the Strap before soldering onto 3rd IMU
+For legs, the main tracking unit is on the feet, 2nd aux on ankle and 3rd aux on thigh. For spine Main unit is on chest, 2nd on waist, 3rd on hip
+
+
+- Size the AUX/EXT cables as you go with your limbs in flexed and extended with your intended layout to allow for enough cable slack for a full range of movement as well as not have an excsessive amount of wires, to prevent tangling/snagging. Though its better to have overestimate than underestimate as this is more easier to fix in the future.
+- Before soldering the 3rd IMU loop the LAN cable through inside of the strap
+- It is normal for LAN cables to be tight fitting into the case you will need to push it in there, twisting it in helps
 
 BASE Layout (Start with this)
 
@@ -102,7 +110,8 @@ BASE Layout (Start with this)
 
 
 ## Where to wear? (gosh that a tongue twister) Where to mount
---note to self Release diagram or pictures, also notes for sizing cables and looping a cable through the Strap before soldering onto 3rd IMU
+
+--note to self Release diagram or pictures
 
 
 - Main unit on feet
@@ -128,3 +137,6 @@ BASE Layout (Start with this)
 - Erimel (although not intentional) for being the final pushing reason why to go ahead with this idea. Though thanks for helping pick the name
 - Eiren for making slime VR a thing as well as making it open source
 
+
+
+Note to self clean this up more !!!
