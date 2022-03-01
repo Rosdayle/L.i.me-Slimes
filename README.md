@@ -23,6 +23,7 @@ In short going by the quote **"Less is more"**
 
 
 Mind the mess, everything is still WIP
+If you want to see my journey, check this out https://discord.com/channels/817184208525983775/823930029070876736/939874280802484266
 
 
 
