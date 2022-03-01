@@ -6,9 +6,10 @@
 The first practical and publicly available (*at time of writing*) full 9 IMU case and hardware solution. 
   Each main slime supporting more than 2 IMU's without any software modification. Daring to be small evolution and GIANT leap for all of slime kind!
 
-This projects goal was to streamline (*at time of writing*) a full set of 9 imus as much as possible while staying practical, as well as publicy introduce and encourage the use of multi IMU setups. And prepare for out of the box ideas and additions by others of the slime community and I (whoever comes up and implements the crazy ideas first HA! I love this community) oh and because Erimel decided to make another point of tracking, MUCH love you clever orange fox
+The projects goals were to streamline (*at time of writing*) a full set of 9 imus as much as possible while staying practical, as well as publicy introduce and encourage the use of multi IMU setups. And prepare for out of the box ideas and additions by others of the slime community and I (whoever comes up and implements the crazy ideas first HA! I love this community) oh and because Erimel decided to make another point of tracking, MUCH love you clever orange fox
 
 As well as introduce many small innovations in hopes for others to be inspired by
+Additionally this was to also help facilitate the transition from existing built trackers to a more streamlined setup (I went from ~red~ cases to this)
 
 From the
 - **"Amount of components"** used to reduce costs and significantly reduce build time
