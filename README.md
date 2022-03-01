@@ -89,6 +89,7 @@ Note to self clean up these diagrams
 
 
 BASE Layout (Start with this)
+
 ![Base](https://i.gyazo.com/69dc7c70b8b11fc3a2775c80673a7aa6.png)
 
 
