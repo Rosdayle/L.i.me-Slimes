@@ -101,7 +101,7 @@ BASE Layout (Start with this)
 
 
 ## Where to wear? (gosh that a tongue twister) Where to mount
-
+--note to self Release diagram or pictures, also notes for sizing cables and looping a cable through the Strap before soldering onto 3rd IMU
 
 
 - Main unit on feet
@@ -109,7 +109,6 @@ BASE Layout (Start with this)
 - Strap below knee
 - AUX, Outside
 - Main unit chest
---note to self Release diagram or pictures for these
 - Wire over shoulder
 - Secure to go pro harness
 - Aux waist thinnest part of body/above belly button area
