@@ -109,7 +109,7 @@ BASE Layout (Start with this)
 ![4 IMU LAYOUT here](https://i.gyazo.com/df23a269be14a751d016d65494852174.png)
 
 
-## Where to wear? (gosh that a tongue twister) Where to mount
+## How to wear
 
 --note to self Release diagram or pictures
 
@@ -139,4 +139,4 @@ BASE Layout (Start with this)
 
 
 
-Note to self clean this up more !!!
+Note to self clean this up more !!! Make a recommended SECTION for how this should be layed out. OR JUST WRITE IT AS RECOMMENDED
