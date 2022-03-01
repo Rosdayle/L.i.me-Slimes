@@ -135,10 +135,11 @@ BASE Layout (Start with this)
 ## Author and people to note
 
 - Loler920a Author and creator of the L,i,me
-- HolyLemon pointing out potential issues with daring wiring ideas as well as reviewing it, to help prevent magic smoke
+- HolyLemon pointing out potential issues, reviewing the wiring, and giving the correct vaulue for the battery readout. All in an effort to help prevent magic smoke
 - Erimel (although not intentional) for being the final pushing reason why to go ahead with this idea. Though thanks for helping pick the name
 - Eiren for making slime VR a thing as well as making it open source
 
 
 
 Note to self clean this up more !!! Make a recommended SECTION for how this should be layed out. OR JUST WRITE IT AS RECOMMENDED
+ALSO note/include the battery monit.h code edit as well as define.h examples
