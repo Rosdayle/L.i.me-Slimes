@@ -27,9 +27,11 @@ In short going by the quote **"Less is more"**
 
 ## Index
 
- - [Holder](https://docs.slimevr.dev/server-setup/body-config.html)
- - [Holder](https://docs.slimevr.dev/server-setup/body-config.html)
- - [Holder](https://docs.slimevr.dev/server-setup/body-config.html)
+ - [Parts](https://github.com/Loler920a/L.i.me-Slimes/blob/main/README.md#parts-list)
+ - [Variants](https://github.com/Loler920a/L.i.me-Slimes/blob/main/README.md#variants)
+ - [Hardware layout](https://github.com/Loler920a/L.i.me-Slimes/blob/main/README.md#hardware-layout)
+ - [Wearing](https://github.com/Loler920a/L.i.me-Slimes/blob/main/README.md#where-to-wear-gosh-that-a-tongue-twister-where-to-mount)
+ - [Credit](https://github.com/Loler920a/L.i.me-Slimes/blob/main/README.md#author-and-people-to-note)
 
 ## Parts List ##
 
