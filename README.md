@@ -143,3 +143,4 @@ BASE Layout (Start with this)
 
 Note to self clean this up more !!! Make a recommended SECTION for how this should be layed out. OR JUST WRITE IT AS RECOMMENDED
 ALSO note/include the battery monit.h code edit as well as define.h examples
+ALSO just make a comparison drawing between traditional and lime to get the point across
