@@ -55,7 +55,7 @@ The first Lime
 
 
 Overall layout on an older model
-![Logo](https://gyazo.com/be5054ebee7b912464fb57d1074dd8e4)
+![Logo](https://i.gyazo.com/be5054ebee7b912464fb57d1074dd8e4.gif)
 
 
 
