@@ -20,10 +20,19 @@ From the
 
 In short going by the quote **"Less is more"**
 
+# How does it work? 
+Well put simply we just added a second D1 Mini board to and thats it done, really thats it
+And because of that you can connect an additional 2 IMU's without altering a single line of code in current slime firmware
+
+
+The first Lime
+![Logo](https://i.gyazo.com/36a4285f534224af641c47bb5025e2df.jpg)
+
 
 
 Mind the mess, everything is still WIP
 If you want to see my journey, check this out https://discord.com/channels/817184208525983775/823930029070876736/939874280802484266
+
 
 
 
