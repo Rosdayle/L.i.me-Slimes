@@ -21,8 +21,9 @@ From the
 In short going by the quote **"Less is more"**
 
 # How does it work? 
+A typical tracker would have a single D1 mini that can support up to 2 IMU's. 
 Well put simply we just added a second D1 Mini board to and thats it done, really thats it
-And because of that you can connect an additional 2 IMU's without altering a single line of code in current slime firmware
+And because of that you can connect an additional 2 IMU's making it a total of 4 supported IMU's. All without altering a single line of code in current slime firmware
 
 The original intended layout is to have 3 main units, with 1 IMU inside and 2 IMU AUX/EXT each. 
 - 2 Main unit goes on feet and the other 2 AUX/EXT goes on ankle and thigh
