@@ -150,7 +150,7 @@ Best to do the diode first
 
 
 A full L,i,me unit set without elbow tracking
-![Final product]https://i.gyazo.com/10f5527647f185ca48843e1c9ce8461f.jpg
+![Final product](https://i.gyazo.com/10f5527647f185ca48843e1c9ce8461f.jpg)
 
 
 ## How to wear (Loler920a recommendation)
