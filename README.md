@@ -31,7 +31,9 @@ The first Lime
 
 
 Mind the mess, everything is still WIP
-If you want to see my journey, check this out https://discord.com/channels/817184208525983775/823930029070876736/939874280802484266
+If you want to see my journey and more info of the L,i,m,e check this out https://discord.com/channels/817184208525983775/823930029070876736/939874280802484266
+
+For any enquires or need for help @Loler920a-Frank on the SlimVR discord server
 
 
 
