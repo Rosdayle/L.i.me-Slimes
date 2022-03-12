@@ -115,7 +115,8 @@ Here is your Shopping list. Items linked are what I personally use.
 | Chest adapter x 1 | Chest adapter x 1  |
 
 
-
+Variant B has no handles, the lid will act like them for you
+![Variant B](https://i.gyazo.com/87eb916b487218307826515c56ce38e5.gif)
 
 
 ## Hardware layout 
@@ -131,6 +132,11 @@ For legs, the main tracking unit is on the feet, 2nd aux on ankle and 3rd aux on
 - Before soldering the 3rd IMU loop the LAN cable through inside of the strap
 - It is normal for LAN cables to be tight fitting into the case you will need to push it in there, twisting it in helps
 
+
+Make sure to have your soldering guide ready
+![Guide] https://i.gyazo.com/fddadf71537a5d73609fabd8beb3e79f.png
+
+
 BASE Layout (Start with this)
 
 ![Base](https://i.gyazo.com/69dc7c70b8b11fc3a2775c80673a7aa6.png)
@@ -142,6 +148,10 @@ BASE Layout (Start with this)
 
 4 IMU layout here Don't do this unless you have a reason to
 ![4 IMU LAYOUT here](https://i.gyazo.com/df23a269be14a751d016d65494852174.png)
+
+
+A full L,i,me unit set without elbow tracking
+![Final product]https://i.gyazo.com/10f5527647f185ca48843e1c9ce8461f.jpg
 
 
 ## How to wear (Loler920a recommendation)
