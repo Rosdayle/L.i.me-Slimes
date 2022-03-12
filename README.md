@@ -54,6 +54,10 @@ The first Lime
 ![Logo](https://i.gyazo.com/36a4285f534224af641c47bb5025e2df.jpg)
 
 
+Overall layout on an older model
+https://gyazo.com/be5054ebee7b912464fb57d1074dd8e4
+
+
 
 
 ## Index
