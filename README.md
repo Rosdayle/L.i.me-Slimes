@@ -82,7 +82,7 @@ Here is your Shopping list. Items linked are what I personally use.
 | ~~BNO055~~ | Apparantly same size BNO08x | ~~Not exactly the 2nd best but its really a BNO08x without the  stabilisation for ARVR~~ |~~I can't personally comment on this IMU~~|
 | ~~MPU 9250~~ | Apparantly same size BNO08x | ~~Now one of the most selected pick due it's price to quality, has magnetometer for stability~~ |~~I can't personally comment on this IMU, but apparantly controllers and a bad environment will affect the magnetometer if its enabled~~|
 | ~~MPU 6050~~ | 3D files experimental but functional | ~~Now one of the most selected pick due it's price to quality, apparantly same as 9250 without magnetometer~~ |~~I can't personally comment on this IMU~~|
-| Lipo battery 585460 | x3 ( =  or < than 56 x 56x 5.8mm) | The power source of the main tracker | If not sourced locally, shipping times may be quite long. Try get one with built in protection as well. Maximum supported battery dimension 56x 56 x 5.8mm you could use blutak to fill in gaps if you are using a smaller battery to prevent rattling and wires breaking and causing shorts/sparks
+| Lipo battery 585460 | x3 ( =  or < than 56 x 56x 5.8mm) | The power source of the main tracker 20000mAh (Thats alot of power) | If not sourced locally, shipping times may be quite long. Try get one with built in protection as well. Maximum supported battery dimension 56x 56 x 5.8mm you could use blutak to fill in gaps if you are using a smaller battery to prevent rattling and wires breaking and causing shorts/sparks
 
 
 
