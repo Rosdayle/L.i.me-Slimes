@@ -20,6 +20,16 @@ From the
 
 In short going by the quote **"Less is more"**
 
+
+
+Mind the mess, everything is still WIP
+If you want to see my journey and more info of the L,i,m,e check this out https://discord.com/channels/817184208525983775/823930029070876736/939874280802484266
+
+For any enquires or need for help @Loler920a-Frank on the SlimVR discord server
+
+
+
+
 # How does it work? 
 A typical tracker would have a single D1 mini that can support up to 2 IMU's. 
 Well put simply we just added a second D1 Mini board to and thats it done, really thats it
@@ -42,13 +52,6 @@ In short we cover every single point of tracking with the use of 3 units, while 
 
 The first Lime
 ![Logo](https://i.gyazo.com/36a4285f534224af641c47bb5025e2df.jpg)
-
-
-
-Mind the mess, everything is still WIP
-If you want to see my journey and more info of the L,i,m,e check this out https://discord.com/channels/817184208525983775/823930029070876736/939874280802484266
-
-For any enquires or need for help @Loler920a-Frank on the SlimVR discord server
 
 
 
