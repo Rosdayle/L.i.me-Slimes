@@ -130,6 +130,7 @@ Note to self clean up these diagrams
 - Before soldering the 3rd IMU loop the LAN cable through inside of one of the velcro straps to this will prevent the cable from flapping around loosly
 - It is normal for LAN cables to be tight fitting into the case you will need to push it in there, twisting it in helps
 - Plan where your soldering iron is going you do not want to burn other wires you just soldered on
+- Boards will be tight fitting in the actual case (Let me know if its to tight)
 
 
 Make sure to have your soldering guide ready
