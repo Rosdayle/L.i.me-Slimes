@@ -124,13 +124,12 @@ Due to being a slightly different hardware layout, here is a wiring diagram to f
 Note to self clean up these diagrams
 
 **NOTES for recommended layout**
---note to self Release diagram or pictures, also notes for sizing cables and looping a cable through the Strap before soldering onto 3rd IMU
-For legs, the main tracking unit is on the feet, 2nd aux on ankle and 3rd aux on thigh. For spine Main unit is on chest, 2nd on waist, 3rd on hip
 
 
 - Size the AUX/EXT cables as you go with your limbs in flexed and extended with your intended layout to allow for enough cable slack for a full range of movement as well as not have an excsessive amount of wires, to prevent tangling/snagging. Though its better to have overestimate than underestimate as this is more easier to fix in the future.
-- Before soldering the 3rd IMU loop the LAN cable through inside of the strap
+- Before soldering the 3rd IMU loop the LAN cable through inside of one of the velcro straps to this will prevent the cable from flapping around loosly
 - It is normal for LAN cables to be tight fitting into the case you will need to push it in there, twisting it in helps
+- Plan where your soldering iron is going you do not want to burn other wires you just soldered on
 
 
 Make sure to have your soldering guide ready
@@ -138,7 +137,7 @@ Make sure to have your soldering guide ready
 
 
 BASE Layout (Start with this)
-
+Best to do the diode first
 ![Base](https://i.gyazo.com/69dc7c70b8b11fc3a2775c80673a7aa6.png)
 
 
