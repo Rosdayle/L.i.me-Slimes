@@ -79,8 +79,8 @@ Here is your Shopping list. Items linked are what I personally use.
 | LAN Cable | x1 minimum 3m | For use as AUX/EXT cables and as well as a source for main tracker wires | Keeps AUX/EXT cables protected and neat, helps prevent cross talk and is a good source for easy to use wires for the main trackers, you might have spares around|
 | IMU (Select from below) | x9 overall (Mix match possible) | These track the rotation of each point and limb they are attached to | Due to chip shortages, and interest in IMU tracking, prices and quality will fluctuate, some IMU's may be non functional, lower end IMU's will drift more overtime |
 | BNO08x |  | ~~Considered the best IMU SLIMEVR supports has built in stabilisation for ARVR use | Due to recent price rise and shortage of this IMU, the SLIMEVR community and I can't recommend this anymore. ( I use these) |
-| ~~BNO055~~ | 3D files are in WIP | ~~Not exactly the 2nd best but its really a BNO08x without the  stabilisation for ARVR~~ |~~I can't personally comment on this IMU~~|
-| ~~MPU 9250~~ | 3D files are in WIP | ~~Now one of the most selected pick due it's price to quality, has magnetometer for stability~~ |~~I can't personally comment on this IMU, but apparantly controllers and a bad environment will affect the magnetometer if its enabled~~|
+| ~~BNO055~~ | Apparantly same size BNO08x | ~~Not exactly the 2nd best but its really a BNO08x without the  stabilisation for ARVR~~ |~~I can't personally comment on this IMU~~|
+| ~~MPU 9250~~ | Apparantly same size BNO08x | ~~Now one of the most selected pick due it's price to quality, has magnetometer for stability~~ |~~I can't personally comment on this IMU, but apparantly controllers and a bad environment will affect the magnetometer if its enabled~~|
 | ~~MPU 6050~~ | 3D files are in WIP | ~~Now one of the most selected pick due it's price to quality, apparantly same as 9250 without magnetometer~~ |~~I can't personally comment on this IMU~~|
 | Lipo battery 585460 | x3 ( =  or < than 56 x 56x 5.8mm) | The power source of the main tracker | If not sourced locally, shipping times may be quite long. Try get one with built in protection as well. Maximum supported battery dimension 56x 56 x 5.8mm you could use blutak to fill in gaps if you are using a smaller battery to prevent rattling and wires breaking and causing shorts/sparks
 
@@ -107,7 +107,7 @@ Here is your Shopping list. Items linked are what I personally use.
 | Divider BNO080 x3 | Divider (IMU) x3  |
 | Aux BNO080 case x 6 | Aux (IMU) case x 6  |
 | Aux Lid x 6 | Aux Lid x 6 |
-| Solder guide x1 | Solder guide x1 (Strongly Recommended |
+| Solder guide (BNO080) x1 | Solder guide (IMU) x1 (Strongly Recommended |
 | Chest adapter x 1 | Chest adapter x 1  |
 
 
