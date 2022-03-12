@@ -24,6 +24,20 @@ In short going by the quote **"Less is more"**
 Well put simply we just added a second D1 Mini board to and thats it done, really thats it
 And because of that you can connect an additional 2 IMU's without altering a single line of code in current slime firmware
 
+The original intended layout is to have 3 main units, with 1 IMU inside and 2 IMU AUX/EXT each. 
+- 2 Main unit goes on feet and the other 2 AUX/EXT goes on ankle and thigh
+- 1 Main unit goes on chest and the other 2 AUX/EXT goes on waist and spine
+It is the authors belief that this provides the most range of movement with no discomfort
+
+
+However with elbow tracking on the horizon, you can have 1 main unit have 1 IMU inside with 2 IMU AUX/EXT out and have 2 main units with 1 IMU inside and 3 IMU AUX/EXT
+- 1 Main unit goes on feet and the other 2 AUX/EXT goes on ankle and thigh
+- 1 Main unit foes on feet and the other 3 AUX/EXT goes on ankle, thigh and hip
+- 1 Main unit goes on chest and the other 3 AUX/EXT goes on waist and elbows
+
+In short we cover every single point of tracking with the use of 3 units, while being the smallest and lightest overall 
+
+
 
 The first Lime
 ![Logo](https://i.gyazo.com/36a4285f534224af641c47bb5025e2df.jpg)
