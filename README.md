@@ -134,7 +134,7 @@ For legs, the main tracking unit is on the feet, 2nd aux on ankle and 3rd aux on
 
 
 Make sure to have your soldering guide ready
-![Guide] https://i.gyazo.com/fddadf71537a5d73609fabd8beb3e79f.png
+![Guide](https://i.gyazo.com/fddadf71537a5d73609fabd8beb3e79f.png)
 
 
 BASE Layout (Start with this)
