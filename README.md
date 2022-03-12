@@ -111,9 +111,9 @@ BASE Layout (Start with this)
 ![4 IMU LAYOUT here](https://i.gyazo.com/df23a269be14a751d016d65494852174.png)
 
 
-## How to wear
+## How to wear (Loler920a recommendation)
 
---note to self Release diagram or pictures
+--Note to self release diagram and pictures
 
 
 - Main unit on feet
@@ -136,6 +136,7 @@ BASE Layout (Start with this)
 
 - Loler920a Author and creator of the L,i,me
 - HolyLemon pointing out potential issues, reviewing the wiring, and giving the correct vaulue for the battery readout. All in an effort to help prevent magic smoke
+- Lemming for secondary testing
 - Erimel (although not intentional) for being the final pushing reason why to go ahead with this idea. Though thanks for helping pick the name
 - Eiren for making slime VR a thing as well as making it open source
 
