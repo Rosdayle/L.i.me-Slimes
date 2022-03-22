@@ -156,7 +156,7 @@ A full L,i,me unit set without elbow tracking
 
 Also to get proper battery readings edit batteryADCMultiplier in batterymonitor.h
 
-![Final product](https://i.gyazo.com/a5cd4523d019b85590b168fd06be50fb.png
+![Battery code](https://i.gyazo.com/a5cd4523d019b85590b168fd06be50fb.png)
 
 
 ## How to wear (Loler920a recommendation)
