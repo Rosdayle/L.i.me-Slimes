@@ -158,6 +158,9 @@ Also to get proper battery readings edit batteryADCMultiplier in batterymonitor.
 
 ![Battery code](https://i.gyazo.com/a5cd4523d019b85590b168fd06be50fb.png)
 
+Replace line 40 with
+   #define batteryADCMultiplier 1.0 / 1023.0 * 6.8
+
 
 ## How to wear (Loler920a recommendation)
 
