@@ -146,7 +146,7 @@ Best to do the diode first
 3 IMU LAYOUT (The main and recommended layout)
 ![3 IMU LAYOUT here](https://i.gyazo.com/aa39ab299450ce945091e0bdfc0138fa.png)
 
-4 IMU layout here Don't do this unless you have a reason to
+4 IMU layout here (This is aimed at the elbow and shoulder tracking addon)
 ![4 IMU LAYOUT here](https://i.gyazo.com/df23a269be14a751d016d65494852174.png)
 
 
