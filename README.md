@@ -3,7 +3,7 @@
 ![Logo](https://i.gyazo.com/7941d6748db107002712ad53378ea480.png)
 
 # Behold its a slimy L,i,me
-The first practical and publicly available (*at time of writing*) full 9 IMU case and hardware solution. 
+The first practical and publicly available (*at time of writing*) full 9/(13) IMU case and hardware solution. 
   Each main slime supporting more than 2 IMU's without any software modification. Daring to be a small evolution and GIANT leap for all of slime kind!
 
 The projects goals were to streamline (*at time of writing*) a full set of 9 imus as much as possible while staying practical, as well as publicy introduce and encourage the use of multi IMU setups. And prepare for out of the box ideas and additions by others of the slime community and I (whoever comes up and implements the crazy ideas first HA! I love this community) oh and because Erimel decided to make another point of tracking, MUCH love you clever orange fox
@@ -45,6 +45,8 @@ However with elbow tracking on the horizon, you can have 1 main unit have 1 IMU 
 - 1 Main unit goes on feet and the other 2 AUX/EXT goes on ankle and thigh
 - 1 Main unit foes on feet and the other 3 AUX/EXT goes on ankle, thigh and hip
 - 1 Main unit goes on chest and the other 3 AUX/EXT goes on waist and elbows
+
+Edit- Elbow tracking addon for L,i,me is working but requires testing before public release 
 
 In short we cover every single point of tracking with the use of 3 units, while being the smallest and lightest overall 
 
