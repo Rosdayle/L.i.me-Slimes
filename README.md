@@ -207,9 +207,10 @@ Replace line 40 with
 - Secure to go pro harness
 - Aux waist thinnest part of body/above belly button area
 - AUX hip belt line
-- Optional (Recommended) - Straps from hip strap to connect to thigh straps, to prevent sliding thigh trackers sliding down leg
 
+- (Recommended) - Straps from hip strap to connect to thigh straps, to prevent sliding thigh trackers sliding down leg
 - The three point buckle (x2) should be on your hip strap, left and right. Loop a velcro strap through the bottom loop and through itself, then connect it to the upper leg strap. (This prevents the upper leg from sliding down)
+- (Authors recommendedation) Wear it underneath your clothes for comfort, least sliding and bunching. Wear a singlet/undershirt if if you like.
 
 
 # FAQ
@@ -238,6 +239,10 @@ When I finish testing and can confirm there are no issues
 **When will the Neck tracking addon be available?**
 
 When I get to it
+
+**Can I lie down, roll or whatever on the tracker and its extensions?**
+Sure go ahead, you will find nothing will prevent you from doing so
+
 
 - **The IMU I want to use is not listed what do I do?**
 You can contact me on the slimevr discord and ask me to model the 3D files for you
