@@ -95,6 +95,7 @@ Here is your Shopping list. Items linked are what I personally use.
 
 
 Australian local sources WIP/TBD
+- I suggest you get batteries from CORE electronics
 
 
 
