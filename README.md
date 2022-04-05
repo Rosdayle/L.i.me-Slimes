@@ -19,8 +19,34 @@ From the
 - **"Customisability"** for custom layouts and possible addons. Layouts can go from 1+2, 1+3 heck even 0+4
 - **"Usage"** Comfort and increase in postions/movements where trackers would traditionally become cumbersome or uncomfortable. Sturdy to protect components. And at the end of the day easy to charge to do it all again
 
+# Who is this for?
+- L,i,me is for those who wish to streamline their current standard slime setup by easily converting into a L,i,me
+- For those who want to make a full no compromise 9 IMU setup from the start (With the option to add an extra 4 more IMU's for shoulder and elbow tracking)
+- People on a tight budget but want a performant full 9 IMU setup (with the option to add shoulder and elbow tracking in the future)
+- Those who intend to use slimevr for mocap and vtubing
 
-In short going by the quote **"Less is more"** hence the name L,i,me
+# Why choose L,i,me?
+
+- Unlike **standard slimes** that can only support **2 IMU's**. Each main **L,i,me** supports **4 IMU's** (without any software modification). 
+- Meaning you only need to make 3 L,i,me units instead of 6 standard slimes for a full 9 IMU setup
+- As a result there are less parts
+- Making L,i,me the cheapest full 9 IMU setup (As well as 13 IMU setup with optional addon)
+- No compromises to performance due to hardware layout
+- Aimed at providing the best stable tracking with comfort and full maneuverability due to being less bulky overall (Less main units)
+- Only need to charge and maintain 3 units (4 if you include the optional addon)
+- Modular and customisable
+- Ongoing support
+- Future octoslime support (Double battery life)
+**Doing more with less**
+- Less units
+- Less parts
+- Less costs
+- Less building
+- Less maintaining
+- Less units to charge
+
+
+TLDR the quote **"Less is more"** hence the name L,i,me
 
 
 
@@ -184,6 +210,46 @@ Replace line 40 with
 - Optional (Recommended) - Straps from hip strap to connect to thigh straps, to prevent sliding thigh trackers sliding down leg
 
 - The three point buckle (x2) should be on your hip strap, left and right. Loop a velcro strap through the bottom loop and through itself, then connect it to the upper leg strap. (This prevents the upper leg from sliding down)
+
+
+# FAQ
+
+- **Can I use this with other standard slime trackers?**
+
+Yes, yes you can
+
+- **This is my first time soldering or doing DIY with electronics, is this ok for me to build?**
+
+If you have confidence that you can or learn to splice cables cables together, then you should be good. 
+Thats probably the hardest thing in a standard slime build as well, though you will be doing it more with L,i,me
+
+
+- **Can I convert my standard slimes into L,i,me's**
+Yes, in fact I converted my previous slimes into this. Though you may want to change the battery and switch
+
+- **I don't have enough IMU's can I add them later?**
+Yes you can in fact start off at minimum 6 IMU's and addon the other IMU's later. Please be sure to plan ahead
+
+
+- **When will the elbow and shoulder tracking addon be available?**
+
+When I finish testing and can confirm there are no issues
+
+**When will the Neck tracking addon be available?**
+
+When I get to it
+
+- **The IMU I want to use is not listed what do I do?**
+You can contact me on the slimevr discord and ask me to model the 3D files for you
+
+- **I have an issue**
+You can ask on the slimevr discord for help or from me if you like
+
+- **Where is the L,i,me software?**
+There is none, L,i,me is exclusively a hardware solution and will work seemlessly with slime
+
+- **What are the octoslime files?**
+WIP models to support octoslime. These are currently only for show
 
 
 
