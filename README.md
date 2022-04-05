@@ -210,7 +210,7 @@ Replace line 40 with
 
 - (Recommended) - Straps from hip strap to connect to thigh straps, to prevent sliding thigh trackers sliding down leg
 - The three point buckle (x2) should be on your hip strap, left and right. Loop a velcro strap through the bottom loop and through itself, then connect it to the upper leg strap. (This prevents the upper leg from sliding down)
-- (Authors recommendedation) Wear it underneath your clothes for comfort, least sliding and bunching. Wear a singlet/undershirt if if you like.
+- (Authors Recommendation) Wear it underneath your clothes for comfort, least sliding and bunching. Wear a singlet/undershirt if if you like.
 
 
 # FAQ
