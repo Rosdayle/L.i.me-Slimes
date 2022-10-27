@@ -36,7 +36,6 @@ From the
 - Only need to charge and maintain 3 units (4 if you include the optional addon)
 - Modular and customisable
 - Ongoing support
-- Future octoslime support (Double battery life)
 **Doing more with less**
 - Less units
 - Less parts
